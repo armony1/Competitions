@@ -31,3 +31,5 @@ Credit History: Credit history meets guidelines
 Property Area: Urban / Semi Urban / Rural
 
 Loan Status: Loan approved or not (Y/N)
+
+https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
