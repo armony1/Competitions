@@ -1,3 +1,3 @@
 # Competitions
 
-Competitions i joined, all have links inside folders
+Competitions i joined and notebooks that i have created for various datasets
